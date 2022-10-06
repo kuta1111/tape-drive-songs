@@ -15,4 +15,4 @@ To add songs first upload then and then go to songs file and type:
 
 If you want me to build this in your base just give me coords or dislocator to your base and I'll build it when i get on next time.
 
-If you want to build it yourself: copy "startup" file just like you did in nick's base, place tape drive on the left of your computer and put some long tape in it, put chat box on the right and put wireless modem on the back. Then put disk drive in front of it and put  the disk in, copy the file using "copy disk/startup startup" and hold ctr + r. You can destroy disk drive now.
+If you want to build it yourself: copy "startup" file just like you did in nick's base ("copy startup disk/startup"), place tape drive on the left of your computer and put some long tape in it, put chat box on the right and put wireless modem on the back. Then put disk drive in front of it and put  the disk in, copy the file using "copy disk/startup startup" and hold ctr + r. You can destroy disk drive now.
