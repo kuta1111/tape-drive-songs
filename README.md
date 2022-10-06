@@ -8,6 +8,6 @@ To then access those playlists you need to type !premade playlist after !new pla
 
 
 
-To add songs first upload then and then go to songs file and type: <name you type in game>*<exact file name with all spaces replaced with %20>
+To add songs first upload then and then go to songs file and type: <name you type in game>\*<exact file name with all spaces replaced with %20>
 
   
